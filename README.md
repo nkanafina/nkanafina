@@ -1,2 +1,4 @@
 ## Hi there 👋
-![Картинка](img/image.png)
+#### My names Nazerke  
+_Iam 16years old!_  
+student of 'Astana Polytechnical college'
